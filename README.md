@@ -8,6 +8,7 @@ a.	Document clustering of three books based on their authors
 b.	To identify the champion clustering algorithm based on the evaluations
 
 Steps Involved:
+
 a.  Importing online books
 
 b.  Data modeling or cleansing
